@@ -1,0 +1,123 @@
+body {
+    background-color: #383838;
+}
+h1 {
+    font-family: 'Playfair Display';
+    color: white;
+    font-size: 90px;
+}
+h2 {
+    color: #1E1E1E;
+    font-family: 'Playfair Display';
+    font-size: 50px;
+    margin-bottom: -70px;
+}
+h3 {
+    color: white;
+    font-size: 40px;
+    font-weight: 100;
+    font-family: 'Playfair Display';
+}
+h4 {
+    color: white;
+    font-size: 18px;
+    font-family: 'Open Sans';
+    font-style: italic;
+    font-weight: 100;
+}
+h5 {
+    color: white;
+    font-family: 'Open Sans';
+    font-size: 15px;
+    font-weight: 300;
+}
+h6 {
+    font-size: 12px;
+    color: white;
+    font-family: 'Playfair Display';
+    font-weight: 100;
+}
+p {
+    color: white;
+    font-size: 18px;
+    font-family: 'Open Sans';
+}
+.first-letter {
+    color: white;
+    font-size: 30px;
+    font-weight: 100;
+    font-family: 'Playfair Display';
+}
+.hero-wrapper {
+    margin-top: -10px;
+    margin-right: -10px;
+    margin-left: -10px;
+    background-color: #383838;
+}
+.img {
+    width: 1200px;
+    height: auto;
+    margin-top: -10px;
+
+}
+.img-2 {
+    margin-left: 230px;
+}
+.txt {
+    position: absolute;
+    top: 150px;
+    left: 250px;
+}
+.txt-2 {
+    position: absolute;
+    top: 850px;
+    left: 400px;
+    display: flex;
+    justify-content: center;
+}
+.txt-last {
+    margin-top: -900px;
+    margin-left: 350px;
+}
+.quote {
+    margin-left: 800px;
+    margin-bottom: -170px;
+    margin-top: 50px;
+}
+.begin {
+    display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.fled {
+    display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.more-abt {
+    display: flex;
+    flex-direction: column;
+    margin-left: -120px;
+    margin-right: 30px;
+    margin-top: 25px;
+}
+.begin-2 {
+    display: flex;
+    justify-content: center;
+}
+.more-about {
+    margin-right: 200px;
+}
+.more-who {
+    margin-top: 140px;
+}
+.people {
+    margin-right: 20px;
+}
+.ppl {
+    height: 100px;
+    width: auto;
+}
+.who {
+    margin-top: -20px;
+}
